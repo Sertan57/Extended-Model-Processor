@@ -6,7 +6,7 @@ using Microsoft.Xna.Framework.Content.Pipeline.Processors;
 
 namespace ExtendedModelProcessor
 {
-    [ContentProcessor(DisplayName = "ExtendedModelProcessor.ContentProcessor1")]
+    [ContentProcessor(DisplayName = "Extended-Model-Processor")]
     public class ContentProcessor1 : ModelProcessor
     {
         public override ModelContent Process(NodeContent input, ContentProcessorContext context)
